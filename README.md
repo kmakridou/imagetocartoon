@@ -1,1 +1,1 @@
-# imagetocartoon
+A simple pythhon code which converts any image into a cartoon, all you have to do is place your image in the same folder with 'main' and replace the image value in the script with the name of your image. 
